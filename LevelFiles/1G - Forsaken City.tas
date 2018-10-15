@@ -1,0 +1,22 @@
+#Created by DevilSquirrel
+#Restart
+   1,Q
+   1,J
+ 119
+
+#Golden berry
+   6,J
+  18
+
+Read,1D - Forsaken City.tas,7,447
+
+#lvl_end
+  10,R,K,G
+  15,L,U,X
+  32,R,D
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R
+   1,S
+   1,D,J
